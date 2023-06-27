@@ -35,7 +35,7 @@
 
 
 
-### :hammer_and_wrench:   <title>Mis herramientas y lenguajes</title>
+### :hammer_and_wrench: Mis herramientas y lenguajes:
 
 <!-- Office 365 -->
 <a href="#">
