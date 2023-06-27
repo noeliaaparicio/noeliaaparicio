@@ -28,7 +28,7 @@
 🎬 En mi tiempo libre disfruto mucho leer libros de fantasía, mirar películas y ver partidos de tenis 🎾. Mi tenista favorito  de todos los tiempos es Roger Federer, creo que merece tener su propio emoji Unicode 😆
 
 
-:heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo, aprender tecnologías nuevas. Si bien tengo conocimientos sobre desarrollo Front End, me siento más a gusto analizando datos, realizando tableros de visualización. Considero que el estudio y la organización es fundamental para lograr excelentes resultados en distintos proyectos.
+:heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo, aprender tecnologías nuevas. Si bien tengo conocimientos sobre desarrollo Front End, me siento más a gusto analizando datos, realizando tableros de visualización. Considero que el estudio, el trabajo en equipo y la organización es fundamental para lograr excelentes resultados en distintos proyectos.
 
 
 :mailbox: ¿Querés contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noeliagaparicio/)
