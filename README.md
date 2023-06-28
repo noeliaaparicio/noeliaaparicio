@@ -38,9 +38,7 @@
 ### :hammer_and_wrench: Mis herramientas y lenguajes:
 
 <!-- Office 365 -->
-<a href="https://www.office.com/" target="_blank"> Microsoft Office 365
-  <img src="https://img.shields.io/badge/Office%20365-blue?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365">
-</a>
+<a href="https://www.office.com/" target="_blank"><img src="https://img.shields.io/badge/Office%20365-blue?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365"></a>
 
 <!-- Outlook -->
 <a href="https://outlook.com/" target="_blank">
