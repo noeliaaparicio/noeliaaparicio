@@ -42,6 +42,11 @@
   <img src="https://img.shields.io/badge/Office%20365-blue?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365">
 </a>
 
+<!-- Outlook -->
+<a href="https://outlook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+</a>
+
 <!-- Excel -->
 <a href="https://www.microsoft.com/excel/" target="_blank">
   <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
