@@ -38,48 +38,47 @@
 ### :hammer_and_wrench: Mis herramientas y lenguajes:
 
 <!-- Office 365 -->
-<a href="#">
+<a href="https://www.office.com/">
   <img src="https://img.shields.io/badge/Office%20365-blue?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365">
 </a>
 
 <!-- Excel -->
-<a href="#">
+<a href="https://www.microsoft.com/excel/">
   <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </a>
 
 <!-- PowerBi -->
-<a href="#">
+<a href="https://powerbi.microsoft.com/">
   <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI">
 </a>
 
 <!-- Tableau -->
-<a href="#">
+<a href="https://www.tableau.com/">
   <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </a>
 
 <!-- Python -->
-<a href="#">
+<a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
 
 <!-- HTML -->
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
 
 <!-- CSS -->
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </a>
 
 <!-- JavaScript -->
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </a>
 
 <!-- Bootstrap -->
-<a href="#">
+<a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
-
  
