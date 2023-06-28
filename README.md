@@ -38,47 +38,46 @@
 ### :hammer_and_wrench: Mis herramientas y lenguajes:
 
 <!-- Office 365 -->
-<a href="https://www.office.com/">
+<a href="https://www.office.com/" target="_blank">
   <img src="https://img.shields.io/badge/Office%20365-blue?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office 365">
 </a>
 
 <!-- Excel -->
-<a href="https://www.microsoft.com/excel/">
+<a href="https://www.microsoft.com/excel/" target="_blank">
   <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
 </a>
 
 <!-- PowerBi -->
-<a href="https://powerbi.microsoft.com/">
+<a href="https://powerbi.microsoft.com/" target="_blank">
   <img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI">
 </a>
 
 <!-- Tableau -->
-<a href="https://www.tableau.com/">
+<a href="https://www.tableau.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 </a>
 
 <!-- Python -->
-<a href="https://www.python.org/">
+<a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
 
 <!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
 
 <!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </a>
 
 <!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </a>
 
 <!-- Bootstrap -->
-<a href="https://getbootstrap.com/">
+<a href="https://getbootstrap.com/" target="_blank">
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
- 
