@@ -15,7 +15,7 @@
 
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí : Apasionada de la tecnología, estudiante de Ingeniería en Informática. Actualmente estoy realizando una transición laboral al mundo IT.
+### :woman_technologist: Sobre mí : Apasionada de la tecnología, estudiante de Licenciatura en Gestión de Tecnología. Actualmente estoy realizando una transición laboral al mundo IT.
 
  :telescope: Actualmente estoy trabajando en una empresa que está a cargo de la operación de las tres centrales nucleares en funcionamiento en Argentina. También está a cargo de la comercialización en el Mercado Eléctrico Mayorista (MEM) de la energía producida por sus plantas y del gerenciamiento de proyectos que aseguren la normal operación de sus instalaciones, así como también de aquellos que tengan por objetivo la eventual construcción de futuras centrales nucleares en territorio argentino.
 
