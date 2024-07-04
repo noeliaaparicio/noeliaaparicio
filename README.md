@@ -20,7 +20,7 @@
  :telescope: Actualmente estoy trabajando en una empresa que está a cargo de la operación de las tres centrales nucleares en funcionamiento en Argentina. También está a cargo de la comercialización en el Mercado Eléctrico Mayorista (MEM) de la energía producida por sus plantas y del gerenciamiento de proyectos que aseguren la normal operación de sus instalaciones, así como también de aquellos que tengan por objetivo la eventual construcción de futuras centrales nucleares en territorio argentino.
 
  
-📚 Estoy estudiando Ingeniería en Informática y Data Science:blue_book: y practicando :computer: algunas skills informáticas, como SQL, y herramientas de visualización de datos, como Power Bi y Data Studio. Además, sigo adquiriendo experiencia y conocimientos sobre las increíbles herramientas de Microsoft.
+📚 Estoy estudiando Licenciatura en Gestión de Tecnología y Data Science:blue_book: y practicando :computer: algunas skills informáticas, como SQL, y herramientas de visualización de datos, como Power Bi y Data Studio. Además, sigo adquiriendo experiencia y conocimientos sobre las increíbles herramientas de Microsoft.
 
 
 🌱 No solo me apasiona la tecnología, sino que también siento un gran interés por las energías renovables, me interesa pensar cómo estos dos mundos pueden fusionarse y trabajar juntos para crear un futuro más sostenible, lo cual me impulsa a seguir aprendiendo y a explorar las posibilidades que surgen de la convergencia de la tecnología y los distintos tipos de energías renovables.
